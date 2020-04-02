@@ -1,2 +1,2 @@
 # Algorithm
-Practice common algorithm
+Practice common algorithms
