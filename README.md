@@ -11,4 +11,7 @@ Practice common algorithms
 ### 02：Greedy Method  
 - [05 Greedy Activity Selector](https://github.com/tailer954/Algorithm/blob/master/02_Greedy%20Method/05%E3%80%81Greedy_Activity_Selector.cpp)
 - [06 Fractional knapsack problem](https://github.com/tailer954/Algorithm/blob/master/02_Greedy%20Method/06%E3%80%81Fractional_knapsack_problem.cpp)
+- [07 Kruskal’s Algorithm](https://github.com/tailer954/Algorithm/blob/master/02_Greedy%20Method/07%E3%80%81Kruskal%E2%80%99s_Algorithm.cpp)
+- [08 The Bus Driver Problem](https://github.com/tailer954/Algorithm/blob/master/02_Greedy%20Method/08%E3%80%81The_Bus_Driver_Problem.cpp)
 >
+### 03：Dynamic Program
