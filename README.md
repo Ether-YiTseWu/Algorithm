@@ -15,3 +15,6 @@ Practice common algorithms
 - [08 The Bus Driver Problem](https://github.com/tailer954/Algorithm/blob/master/02_Greedy%20Method/08%E3%80%81The_Bus_Driver_Problem.cpp)
 >
 ### 03：Dynamic Program
+- [09 Kruskal’s Algorithm](https://github.com/tailer954/Algorithm/blob/master/03_Dynamic%20Program/09%E3%80%81Rod_cutting.cpp)
+- [10 The Bus Driver Problem](https://github.com/tailer954/Algorithm/blob/master/03_Dynamic%20Program/10%E3%80%81Longest_common_subsequence.cpp)
+>
