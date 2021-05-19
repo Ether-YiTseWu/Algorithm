@@ -14,7 +14,7 @@ Practice common algorithms
 - [07 Kruskal’s Algorithm](https://github.com/tailer954/Algorithm/blob/master/02_Greedy%20Method/07%E3%80%81Kruskal%E2%80%99s_Algorithm.cpp)
 - [08 The Bus Driver Problem](https://github.com/tailer954/Algorithm/blob/master/02_Greedy%20Method/08%E3%80%81The_Bus_Driver_Problem.cpp)
 >
-### 03：Dynamic Program
+### 03：Dynamic Programing
 - [09 Rod cutting](https://github.com/tailer954/Algorithm/blob/master/03_Dynamic%20Program/09%E3%80%81Rod_cutting.cpp)
 - [10 Longest common subsequence](https://github.com/tailer954/Algorithm/blob/master/03_Dynamic%20Program/10%E3%80%81Longest_common_subsequence.cpp)
 - [11 Knapsack_problem](https://github.com/tailer954/Algorithm/blob/master/03_Dynamic%20Program/11%E3%80%81Knapsack_problem.cpp)
